@@ -1,0 +1,8 @@
+[build]
+  publish = "build"
+
+[[redirects]]
+  from = "/api/*"
+  to = "https://hogchomepage-60067036113.development.catalystserverless.in/server/emailleadcollector/:splat"
+  status = 200
+  force = true
