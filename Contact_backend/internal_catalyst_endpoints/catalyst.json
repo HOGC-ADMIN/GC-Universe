@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "emailleadcollector"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "32420000000011090",
+      "name": "hogcHomePage",
+      "domain": {
+        "id": "50039837126",
+        "name": "hogchomepage-60067036113.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60067036113",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

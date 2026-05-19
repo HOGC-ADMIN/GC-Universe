@@ -1,0 +1,9 @@
+{
+	"name": "emailleadcollector",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "srinivasan.s@hogc.in",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}
