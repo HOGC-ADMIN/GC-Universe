@@ -72,7 +72,7 @@ export const CARDS = [
     "Brand & Strategy | Brand strategy, positioning, and integrated marketing systems",
     "Lead Generation & Growth | Lead generation, funnels, and conversion optimization systems",
     "Digital & Performance Marketing | Digital marketing, social media, and performance marketing campaigns",
-    "Workspace & Office Setup | Office setup, infrastructure provisioning, and workspace aggregation solutions",
+    "Content & Creative Strategy | Storytelling, creative direction, and content systems that build audience engagement",
   ],
   [
     "Vehicle Care | Precision exterior and interior care in residential ecosystem",
